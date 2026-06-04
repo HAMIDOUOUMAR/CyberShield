@@ -1,0 +1,20 @@
+[
+  {
+    "original_path": "tmp_quarantine_test\\detected.txt",
+    "quarantine_path": "D:\\Dev\\miniProjetMalwareByte\\CyberShield\\quarantine\\quarantine_folder\\detected_1.txt",
+    "hash": "dummyhash123",
+    "date": "2026-06-04T06:08:25"
+  },
+  {
+    "original_path": "tmp_scan_quarantine\\malware_copy.txt",
+    "quarantine_path": "D:\\Dev\\miniProjetMalwareByte\\CyberShield\\quarantine\\quarantine_folder\\malware_copy.txt",
+    "hash": "390e80921b0e0b9e00e0f49b278f811bbb14853ba20dea2f3697c3707458e325",
+    "date": "2026-06-04T06:16:05"
+  },
+  {
+    "original_path": "D:\\Dev\\miniProjetMalwareByte\\test_files\\malware.txt",
+    "quarantine_path": "D:\\Dev\\miniProjetMalwareByte\\CyberShield\\quarantine\\quarantine_folder\\malware.txt",
+    "hash": "390e80921b0e0b9e00e0f49b278f811bbb14853ba20dea2f3697c3707458e325",
+    "date": "2026-06-04T06:54:35"
+  }
+]

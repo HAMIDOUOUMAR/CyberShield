@@ -1,0 +1,1734 @@
+{
+  "scan_date": "2026-06-04T07:02:14",
+  "process_count": 288,
+  "processes": [
+    {
+      "pid": 0,
+      "name": "System Idle Process",
+      "cpu": 0.0,
+      "memory": 4.874402489649815e-05
+    },
+    {
+      "pid": 4,
+      "name": "System",
+      "cpu": 0.0,
+      "memory": 0.000974880497929963
+    },
+    {
+      "pid": 272,
+      "name": "Registry",
+      "cpu": 0.0,
+      "memory": 0.35956029964901864
+    },
+    {
+      "pid": 972,
+      "name": "smss.exe",
+      "cpu": 0.0,
+      "memory": 0.005166866639028805
+    },
+    {
+      "pid": 1104,
+      "name": "conhost.exe",
+      "cpu": 0.0,
+      "memory": 0.05439833178449194
+    },
+    {
+      "pid": 1268,
+      "name": "dwm.exe",
+      "cpu": 0.0,
+      "memory": 0.6079598505215732
+    },
+    {
+      "pid": 1288,
+      "name": "csrss.exe",
+      "cpu": 0.0,
+      "memory": 0.035217557987719916
+    },
+    {
+      "pid": 1376,
+      "name": "wininit.exe",
+      "cpu": 0.0,
+      "memory": 0.043504042220124606
+    },
+    {
+      "pid": 1384,
+      "name": "csrss.exe",
+      "cpu": 0.0,
+      "memory": 0.04389399441929659
+    },
+    {
+      "pid": 1388,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.06329411632810286
+    },
+    {
+      "pid": 1476,
+      "name": "winlogon.exe",
+      "cpu": 0.0,
+      "memory": 0.06251421192975888
+    },
+    {
+      "pid": 1528,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.0700207917638196
+    },
+    {
+      "pid": 1580,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.026102425332074762
+    },
+    {
+      "pid": 1584,
+      "name": "services.exe",
+      "cpu": 0.0,
+      "memory": 0.09151690674317528
+    },
+    {
+      "pid": 1604,
+      "name": "lsass.exe",
+      "cpu": 0.0,
+      "memory": 0.16872744217922836
+    },
+    {
+      "pid": 1620,
+      "name": "O+Connect.exe",
+      "cpu": 0.0,
+      "memory": 0.1507165249799723
+    },
+    {
+      "pid": 1748,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.2052367168267055
+    },
+    {
+      "pid": 1776,
+      "name": "fontdrvhost.exe",
+      "cpu": 0.0,
+      "memory": 0.026370517469005504
+    },
+    {
+      "pid": 1784,
+      "name": "fontdrvhost.exe",
+      "cpu": 0.0,
+      "memory": 0.04279725385912538
+    },
+    {
+      "pid": 1852,
+      "name": "WUDFHost.exe",
+      "cpu": 0.0,
+      "memory": 0.08552139168090601
+    },
+    {
+      "pid": 1916,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.10124133971002668
+    },
+    {
+      "pid": 1960,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.06412276475134332
+    },
+    {
+      "pid": 1992,
+      "name": "nearby_share.exe",
+      "cpu": 0.0,
+      "memory": 0.5385483590689599
+    },
+    {
+      "pid": 2020,
+      "name": "powershell.exe",
+      "cpu": 0.0,
+      "memory": 0.3492509383834093
+    },
+    {
+      "pid": 2044,
+      "name": "WUDFHost.exe",
+      "cpu": 0.0,
+      "memory": 0.06239235186751763
+    },
+    {
+      "pid": 2080,
+      "name": "WUDFHost.exe",
+      "cpu": 0.0,
+      "memory": 0.039702008278197747
+    },
+    {
+      "pid": 2088,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.06563382952313476
+    },
+    {
+      "pid": 2180,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.054081495622664705
+    },
+    {
+      "pid": 2184,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.05915087421190052
+    },
+    {
+      "pid": 2196,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.06521950531151453
+    },
+    {
+      "pid": 2204,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.08003768888004997
+    },
+    {
+      "pid": 2260,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.04957267331973862
+    },
+    {
+      "pid": 2268,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.03231728850637828
+    },
+    {
+      "pid": 2400,
+      "name": "IntelCpHDCPSvc.exe",
+      "cpu": 0.0,
+      "memory": 0.030562503610104343
+    },
+    {
+      "pid": 2444,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.07840476404601728
+    },
+    {
+      "pid": 2456,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.04830532867242967
+    },
+    {
+      "pid": 2508,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.10046143531168271
+    },
+    {
+      "pid": 2564,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.027905954253245192
+    },
+    {
+      "pid": 2652,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.04625807962677675
+    },
+    {
+      "pid": 2940,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.05885841006252153
+    },
+    {
+      "pid": 3016,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 2.109324561358613
+    },
+    {
+      "pid": 3056,
+      "name": "qmbsrv.exe",
+      "cpu": 0.0,
+      "memory": 0.05118122614132306
+    },
+    {
+      "pid": 3156,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.03239040454372302
+    },
+    {
+      "pid": 3316,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.054081495622664705
+    },
+    {
+      "pid": 3364,
+      "name": "SynTPEnhService.exe",
+      "cpu": 0.0,
+      "memory": 0.05349656732390672
+    },
+    {
+      "pid": 3404,
+      "name": "SysInfoCap.exe",
+      "cpu": 0.0,
+      "memory": 0.383079291661579
+    },
+    {
+      "pid": 3408,
+      "name": "QQPCRTP.exe",
+      "cpu": 0.0,
+      "memory": 0.4286793269522531
+    },
+    {
+      "pid": 3444,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.04340655417033161
+    },
+    {
+      "pid": 3452,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.09712246960627258
+    },
+    {
+      "pid": 3460,
+      "name": "NetworkCap.exe",
+      "cpu": 0.0,
+      "memory": 0.17357747265642995
+    },
+    {
+      "pid": 3484,
+      "name": "AppHelperCap.exe",
+      "cpu": 0.0,
+      "memory": 0.10114385166023368
+    },
+    {
+      "pid": 3496,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.13397295242802518
+    },
+    {
+      "pid": 3504,
+      "name": "DiagsCap.exe",
+      "cpu": 0.0,
+      "memory": 0.07243362099619627
+    },
+    {
+      "pid": 3648,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 0.23328890315464015
+    },
+    {
+      "pid": 3716,
+      "name": "MemCompression",
+      "cpu": 0.0,
+      "memory": 9.118861573549736
+    },
+    {
+      "pid": 3788,
+      "name": "TouchpointAnalyticsClientService.exe",
+      "cpu": 0.0,
+      "memory": 0.3397702255410404
+    },
+    {
+      "pid": 3856,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.10553081390091851
+    },
+    {
+      "pid": 3868,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.04584375541515651
+    },
+    {
+      "pid": 3984,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.11739998396321581
+    },
+    {
+      "pid": 3996,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.029782599211760373
+    },
+    {
+      "pid": 4208,
+      "name": "O+Connect.exe",
+      "cpu": 0.0,
+      "memory": 0.5609706105213491
+    },
+    {
+      "pid": 4256,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.09985213500047647
+    },
+    {
+      "pid": 4280,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.09378350390086244
+    },
+    {
+      "pid": 4524,
+      "name": "ipfsvc.exe",
+      "cpu": 0.0,
+      "memory": 0.035826858298926144
+    },
+    {
+      "pid": 4676,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.12312740688855434
+    },
+    {
+      "pid": 4792,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.05057192583011684
+    },
+    {
+      "pid": 4816,
+      "name": "powershell.exe",
+      "cpu": 0.0,
+      "memory": 0.23933316224180595
+    },
+    {
+      "pid": 4960,
+      "name": "RuntimeBroker.exe",
+      "cpu": 0.0,
+      "memory": 0.0684853549795799
+    },
+    {
+      "pid": 4996,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.1535924224488657
+    },
+    {
+      "pid": 5220,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.04706235603756897
+    },
+    {
+      "pid": 5276,
+      "name": "ctfmon.exe",
+      "cpu": 0.0,
+      "memory": 0.15174014950279877
+    },
+    {
+      "pid": 5344,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.058127249689074054
+    },
+    {
+      "pid": 5412,
+      "name": "QQPCTray.exe",
+      "cpu": 0.0,
+      "memory": 0.5101062205418532
+    },
+    {
+      "pid": 5428,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.06295290815382737
+    },
+    {
+      "pid": 5456,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.15590776363144937
+    },
+    {
+      "pid": 5492,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.11264744153580723
+    },
+    {
+      "pid": 5516,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 1.0966430721214155
+    },
+    {
+      "pid": 5624,
+      "name": "ms-teams.exe",
+      "cpu": 0.0,
+      "memory": 0.14869364794676762
+    },
+    {
+      "pid": 5640,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.20304323570636307
+    },
+    {
+      "pid": 5664,
+      "name": "OneDrive.exe",
+      "cpu": 0.0,
+      "memory": 0.824480809111818
+    },
+    {
+      "pid": 5704,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.09612321709589436
+    },
+    {
+      "pid": 5712,
+      "name": "unsecapp.exe",
+      "cpu": 0.0,
+      "memory": 0.09271113535313949
+    },
+    {
+      "pid": 5744,
+      "name": "armsvc.exe",
+      "cpu": 0.0,
+      "memory": 0.033535889128790734
+    },
+    {
+      "pid": 5888,
+      "name": "spoolsv.exe",
+      "cpu": 0.0,
+      "memory": 0.06804665875551143
+    },
+    {
+      "pid": 5968,
+      "name": "OfficeClickToRun.exe",
+      "cpu": 0.0,
+      "memory": 0.23499494402601762
+    },
+    {
+      "pid": 5972,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.31452082064465436
+    },
+    {
+      "pid": 5984,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.23041300568574677
+    },
+    {
+      "pid": 6068,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.04781788842346469
+    },
+    {
+      "pid": 6100,
+      "name": "WmiPrvSE.exe",
+      "cpu": 0.0,
+      "memory": 0.07355473356881571
+    },
+    {
+      "pid": 6156,
+      "name": "DtsApo4Service.exe",
+      "cpu": 0.0,
+      "memory": 0.09351541176393172
+    },
+    {
+      "pid": 6164,
+      "name": "everything.exe",
+      "cpu": 0.0,
+      "memory": 0.04018944852716273
+    },
+    {
+      "pid": 6220,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.13872549485543376
+    },
+    {
+      "pid": 6244,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.05383777549818221
+    },
+    {
+      "pid": 6328,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.18551975875607196
+    },
+    {
+      "pid": 6336,
+      "name": "ipf_uf.exe",
+      "cpu": 0.0,
+      "memory": 0.034949465850789174
+    },
+    {
+      "pid": 6348,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 0.39353488500187783
+    },
+    {
+      "pid": 6352,
+      "name": "IntelAudioService.exe",
+      "cpu": 0.0,
+      "memory": 0.11776556414993954
+    },
+    {
+      "pid": 6364,
+      "name": "MBAMService.exe",
+      "cpu": 0.0,
+      "memory": 1.5983409483686226
+    },
+    {
+      "pid": 6404,
+      "name": "jhi_service.exe",
+      "cpu": 0.0,
+      "memory": 0.032341660518826525
+    },
+    {
+      "pid": 6424,
+      "name": "MpDefenderCoreService.exe",
+      "cpu": 0.0,
+      "memory": 0.12376107921220883
+    },
+    {
+      "pid": 6476,
+      "name": "oplus_remote_service.exe",
+      "cpu": 0.0,
+      "memory": 0.10733434282208894
+    },
+    {
+      "pid": 6496,
+      "name": "RtkAudUService64.exe",
+      "cpu": 0.0,
+      "memory": 0.10789489910839867
+    },
+    {
+      "pid": 6516,
+      "name": "RtkBtManServ.exe",
+      "cpu": 0.0,
+      "memory": 0.055958140581179885
+    },
+    {
+      "pid": 6536,
+      "name": "MSOfficePLUSService.exe",
+      "cpu": 0.0,
+      "memory": 0.27223537904694217
+    },
+    {
+      "pid": 6544,
+      "name": "devicespace.exe",
+      "cpu": 0.0,
+      "memory": 0.21693528280186505
+    },
+    {
+      "pid": 6580,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.052911639025148755
+    },
+    {
+      "pid": 6592,
+      "name": "QBUpdateService.exe",
+      "cpu": 0.0,
+      "memory": 0.06183179558120791
+    },
+    {
+      "pid": 6604,
+      "name": "pg_ctl.exe",
+      "cpu": 0.0,
+      "memory": 0.030538131597656098
+    },
+    {
+      "pid": 6612,
+      "name": "PushNotificationsLongRunningTask.exe",
+      "cpu": 0.0,
+      "memory": 0.06658433800861649
+    },
+    {
+      "pid": 6672,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.02929515896279539
+    },
+    {
+      "pid": 6680,
+      "name": "vmnetdhcp.exe",
+      "cpu": 0.0,
+      "memory": 0.026906701742866985
+    },
+    {
+      "pid": 6692,
+      "name": "vmware-usbarbitrator64.exe",
+      "cpu": 0.0,
+      "memory": 0.05722548522848884
+    },
+    {
+      "pid": 6712,
+      "name": "vmnat.exe",
+      "cpu": 0.0,
+      "memory": 0.034949465850789174
+    },
+    {
+      "pid": 6724,
+      "name": "MsMpEng.exe",
+      "cpu": 0.0,
+      "memory": 0.23650600879780906
+    },
+    {
+      "pid": 6736,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.11406101825780568
+    },
+    {
+      "pid": 6744,
+      "name": "WMIRegistrationService.exe",
+      "cpu": 0.0,
+      "memory": 0.06041821885920946
+    },
+    {
+      "pid": 6812,
+      "name": "vmware-authd.exe",
+      "cpu": 0.0,
+      "memory": 0.05086438997949583
+    },
+    {
+      "pid": 6940,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.04384525039440009
+    },
+    {
+      "pid": 6956,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.044673898817640556
+    },
+    {
+      "pid": 7028,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 1.5280764364803208
+    },
+    {
+      "pid": 7588,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.03182984825741329
+    },
+    {
+      "pid": 7752,
+      "name": "ipf_helper.exe",
+      "cpu": 0.0,
+      "memory": 0.03458388566406544
+    },
+    {
+      "pid": 8256,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.08878724134897138
+    },
+    {
+      "pid": 8284,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.30528382792676795
+    },
+    {
+      "pid": 8328,
+      "name": "conhost.exe",
+      "cpu": 0.0,
+      "memory": 0.03429142151468645
+    },
+    {
+      "pid": 8452,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.15108210516669604
+    },
+    {
+      "pid": 8836,
+      "name": "qmlauncher.exe",
+      "cpu": 0.0,
+      "memory": 0.2585626800634745
+    },
+    {
+      "pid": 8852,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.0396776362657495
+    },
+    {
+      "pid": 8952,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.04001884444002499
+    },
+    {
+      "pid": 8960,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.03992135639023199
+    },
+    {
+      "pid": 8984,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.03984824035288725
+    },
+    {
+      "pid": 9000,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.057932273589488055
+    },
+    {
+      "pid": 9040,
+      "name": "postgres.exe",
+      "cpu": 0.0,
+      "memory": 0.04528319912884679
+    },
+    {
+      "pid": 9100,
+      "name": "O+Connect.exe",
+      "cpu": 0.0,
+      "memory": 0.6643323153143733
+    },
+    {
+      "pid": 9152,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 0.125247771971552
+    },
+    {
+      "pid": 9348,
+      "name": "pantaChannelService.exe",
+      "cpu": 0.0,
+      "memory": 0.08676436431576671
+    },
+    {
+      "pid": 9384,
+      "name": "SynTPEnh.exe",
+      "cpu": 0.0,
+      "memory": 0.10177752398388815
+    },
+    {
+      "pid": 9392,
+      "name": "qmlauncher.exe",
+      "cpu": 0.0,
+      "memory": 0.185324782656486
+    },
+    {
+      "pid": 9720,
+      "name": "taskhostw.exe",
+      "cpu": 0.0,
+      "memory": 0.09678126143199708
+    },
+    {
+      "pid": 9760,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.1268806968055847
+    },
+    {
+      "pid": 9776,
+      "name": "OpenConsole.exe",
+      "cpu": 0.0,
+      "memory": 0.04908523307077364
+    },
+    {
+      "pid": 10300,
+      "name": "IntelGraphicsSoftware.Service.exe",
+      "cpu": 0.0,
+      "memory": 0.16477917616261203
+    },
+    {
+      "pid": 10340,
+      "name": "sihost.exe",
+      "cpu": 0.0,
+      "memory": 0.24954503545762233
+    },
+    {
+      "pid": 10368,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.16334122742816531
+    },
+    {
+      "pid": 10480,
+      "name": "AggregatorHost.exe",
+      "cpu": 0.0,
+      "memory": 0.08076884925349745
+    },
+    {
+      "pid": 10640,
+      "name": "qmlauncher.exe",
+      "cpu": 0.0,
+      "memory": 0.31447207661975785
+    },
+    {
+      "pid": 10700,
+      "name": "qmlauncher.exe",
+      "cpu": 0.0,
+      "memory": 0.2616335536319539
+    },
+    {
+      "pid": 10744,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.02778409419100395
+    },
+    {
+      "pid": 10940,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.03877587180516428
+    },
+    {
+      "pid": 11024,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.20989177120432104
+    },
+    {
+      "pid": 11204,
+      "name": "SearchIndexer.exe",
+      "cpu": 0.0,
+      "memory": 0.16341434346551006
+    },
+    {
+      "pid": 11208,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 1.6019723782234117
+    },
+    {
+      "pid": 11324,
+      "name": "terabox.exe",
+      "cpu": 0.0,
+      "memory": 0.08812919701286867
+    },
+    {
+      "pid": 11404,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.04528319912884679
+    },
+    {
+      "pid": 11472,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.11430473838228818
+    },
+    {
+      "pid": 11724,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.07545575053977914
+    },
+    {
+      "pid": 11860,
+      "name": "MiniHomePagePro.exe",
+      "cpu": 0.0,
+      "memory": 0.1520082416397295
+    },
+    {
+      "pid": 12164,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.0475741682989822
+    },
+    {
+      "pid": 12208,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.1164494754777341
+    },
+    {
+      "pid": 12240,
+      "name": "qmlauncher.exe",
+      "cpu": 0.0,
+      "memory": 0.5046956337783419
+    },
+    {
+      "pid": 12324,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 0.12644200058151622
+    },
+    {
+      "pid": 12408,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 0.46903937956655356
+    },
+    {
+      "pid": 12568,
+      "name": "conhost.exe",
+      "cpu": 0.0,
+      "memory": 0.04201734946078141
+    },
+    {
+      "pid": 12592,
+      "name": "CrossDeviceService.exe",
+      "cpu": 0.0,
+      "memory": 0.5391332873677179
+    },
+    {
+      "pid": 12724,
+      "name": "conhost.exe",
+      "cpu": 0.0,
+      "memory": 0.02273908761421639
+    },
+    {
+      "pid": 12760,
+      "name": "PresentMonService.exe",
+      "cpu": 0.0,
+      "memory": 0.04384525039440009
+    },
+    {
+      "pid": 13020,
+      "name": "crashpad_handler.exe",
+      "cpu": 0.0,
+      "memory": 0.033803981265721476
+    },
+    {
+      "pid": 13112,
+      "name": "adb.exe",
+      "cpu": 0.0,
+      "memory": 0.050913134004392326
+    },
+    {
+      "pid": 13296,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 0.5266060729693178
+    },
+    {
+      "pid": 13328,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 0.44154774952492853
+    },
+    {
+      "pid": 13372,
+      "name": "explorer.exe",
+      "cpu": 0.0,
+      "memory": 1.559979400775079
+    },
+    {
+      "pid": 13384,
+      "name": "O+Connect.exe",
+      "cpu": 0.0,
+      "memory": 0.27140673062370174
+    },
+    {
+      "pid": 13420,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.08354725867259784
+    },
+    {
+      "pid": 13428,
+      "name": "ShellHost.exe",
+      "cpu": 0.0,
+      "memory": 0.17391868083070544
+    },
+    {
+      "pid": 13744,
+      "name": "teraboxhost.exe",
+      "cpu": 0.0,
+      "memory": 0.22439311861102929
+    },
+    {
+      "pid": 13780,
+      "name": "AdobeCollabSync.exe",
+      "cpu": 0.0,
+      "memory": 0.2457673735281437
+    },
+    {
+      "pid": 13784,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 1.0540407943618761
+    },
+    {
+      "pid": 14072,
+      "name": "wpscloudsvr.exe",
+      "cpu": 0.0,
+      "memory": 0.17096966732446728
+    },
+    {
+      "pid": 14192,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.12149448205452165
+    },
+    {
+      "pid": 14296,
+      "name": "WidgetService.exe",
+      "cpu": 0.0,
+      "memory": 0.14691449103804546
+    },
+    {
+      "pid": 14392,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.23453187578950088
+    },
+    {
+      "pid": 14416,
+      "name": "CrossDeviceResume.exe",
+      "cpu": 0.0,
+      "memory": 0.2078201501462199
+    },
+    {
+      "pid": 14520,
+      "name": "dllhost.exe",
+      "cpu": 0.0,
+      "memory": 0.05203424657701178
+    },
+    {
+      "pid": 14764,
+      "name": "RtkAudUService64.exe",
+      "cpu": 0.0,
+      "memory": 0.06975269962688886
+    },
+    {
+      "pid": 14924,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.16448671201323303
+    },
+    {
+      "pid": 14940,
+      "name": "FileSyncHelper.exe",
+      "cpu": 0.0,
+      "memory": 0.16275629912940734
+    },
+    {
+      "pid": 15068,
+      "name": "qmlauncher.exe",
+      "cpu": 0.0,
+      "memory": 0.2552968303954091
+    },
+    {
+      "pid": 15080,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.0752851464526414
+    },
+    {
+      "pid": 15220,
+      "name": "m365copilot_autostarter.exe",
+      "cpu": 0.0,
+      "memory": 0.08254800616221962
+    },
+    {
+      "pid": 15416,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.07362784960616046
+    },
+    {
+      "pid": 15592,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.19482986751130313
+    },
+    {
+      "pid": 15636,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.07894094831987876
+    },
+    {
+      "pid": 15736,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.06963083956464762
+    },
+    {
+      "pid": 15776,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.9066144910624175
+    },
+    {
+      "pid": 15784,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.041310561099782185
+    },
+    {
+      "pid": 15816,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.046428683713914495
+    },
+    {
+      "pid": 15860,
+      "name": "Malwarebytes.exe",
+      "cpu": 0.0,
+      "memory": 1.0581596644656304
+    },
+    {
+      "pid": 15972,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.07045948798788808
+    },
+    {
+      "pid": 16112,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 2.703294876734891
+    },
+    {
+      "pid": 16312,
+      "name": "conhost.exe",
+      "cpu": 0.0,
+      "memory": 0.04209046549812616
+    },
+    {
+      "pid": 16388,
+      "name": "codex.exe",
+      "cpu": 0.0,
+      "memory": 0.7237269096507564
+    },
+    {
+      "pid": 16416,
+      "name": "O+Connect.exe",
+      "cpu": 0.0,
+      "memory": 0.9811441051291632
+    },
+    {
+      "pid": 16476,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 0.8232865805018539
+    },
+    {
+      "pid": 16612,
+      "name": "SearchHost.exe",
+      "cpu": 0.0,
+      "memory": 0.5959200763721382
+    },
+    {
+      "pid": 16624,
+      "name": "StartMenuExperienceHost.exe",
+      "cpu": 0.0,
+      "memory": 0.6251177472851406
+    },
+    {
+      "pid": 16740,
+      "name": "O+Connect.exe",
+      "cpu": 0.0,
+      "memory": 0.8485116133857917
+    },
+    {
+      "pid": 16752,
+      "name": "pet.exe",
+      "cpu": 0.0,
+      "memory": 0.04213920952302266
+    },
+    {
+      "pid": 16772,
+      "name": "RuntimeBroker.exe",
+      "cpu": 0.0,
+      "memory": 0.07160497257295578
+    },
+    {
+      "pid": 16832,
+      "name": "teraboxunite.exe",
+      "cpu": 0.0,
+      "memory": 0.4367220910601753
+    },
+    {
+      "pid": 17000,
+      "name": "OpenConsole.exe",
+      "cpu": 0.0,
+      "memory": 0.048646536846705155
+    },
+    {
+      "pid": 17076,
+      "name": "conhost.exe",
+      "cpu": 0.0,
+      "memory": 0.03156175612048256
+    },
+    {
+      "pid": 17148,
+      "name": "Widgets.exe",
+      "cpu": 0.0,
+      "memory": 0.2922935452918512
+    },
+    {
+      "pid": 17164,
+      "name": "RuntimeBroker.exe",
+      "cpu": 0.0,
+      "memory": 0.23996683456546042
+    },
+    {
+      "pid": 17180,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.12005653332007496
+    },
+    {
+      "pid": 17492,
+      "name": "QMFileSearchProxy64.exe",
+      "cpu": 0.0,
+      "memory": 0.09890162651499476
+    },
+    {
+      "pid": 17500,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.0476229123238787
+    },
+    {
+      "pid": 17512,
+      "name": "RuntimeBroker.exe",
+      "cpu": 0.0,
+      "memory": 0.14357552533263532
+    },
+    {
+      "pid": 17568,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.4657491578860399
+    },
+    {
+      "pid": 17608,
+      "name": "teraboxunite.exe",
+      "cpu": 0.0,
+      "memory": 0.44849377307267957
+    },
+    {
+      "pid": 17712,
+      "name": "WhatsApp.Root.exe",
+      "cpu": 0.0,
+      "memory": 1.2649318180765754
+    },
+    {
+      "pid": 17836,
+      "name": "ollama.exe",
+      "cpu": 0.0,
+      "memory": 0.18822505213782764
+    },
+    {
+      "pid": 18080,
+      "name": "TextInputHost.exe",
+      "cpu": 0.0,
+      "memory": 0.33750362838335324
+    },
+    {
+      "pid": 18120,
+      "name": "OpenConsole.exe",
+      "cpu": 0.0,
+      "memory": 0.06331848834055111
+    },
+    {
+      "pid": 18360,
+      "name": "qmlauncher.exe",
+      "cpu": 0.0,
+      "memory": 0.0818412178012204
+    },
+    {
+      "pid": 18444,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.0858625998551815
+    },
+    {
+      "pid": 18528,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.49190032724301114
+    },
+    {
+      "pid": 18640,
+      "name": "RtkAudUService64.exe",
+      "cpu": 0.0,
+      "memory": 0.08861663726183365
+    },
+    {
+      "pid": 18684,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.25381013763606586
+    },
+    {
+      "pid": 18844,
+      "name": "crashpad_handler.exe",
+      "cpu": 0.0,
+      "memory": 0.050961878029288823
+    },
+    {
+      "pid": 19024,
+      "name": "ChsIME.exe",
+      "cpu": 0.0,
+      "memory": 0.05817599371397055
+    },
+    {
+      "pid": 19120,
+      "name": "RuntimeBroker.exe",
+      "cpu": 0.0,
+      "memory": 0.06582880562272075
+    },
+    {
+      "pid": 19296,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 0.6093977992560199
+    },
+    {
+      "pid": 19328,
+      "name": "O+Connect.exe",
+      "cpu": 0.0,
+      "memory": 0.6607252574720325
+    },
+    {
+      "pid": 19572,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 0.13675136184712558
+    },
+    {
+      "pid": 19676,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 1.2379276282839156
+    },
+    {
+      "pid": 19780,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 0.05135183022846081
+    },
+    {
+      "pid": 20036,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.4007002566616631
+    },
+    {
+      "pid": 20068,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 0.62916350135155
+    },
+    {
+      "pid": 20076,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 0.2971192037566045
+    },
+    {
+      "pid": 20136,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 0.10943033589263837
+    },
+    {
+      "pid": 20556,
+      "name": "cmd.exe",
+      "cpu": 0.0,
+      "memory": 0.03997010041512849
+    },
+    {
+      "pid": 20596,
+      "name": "SystemSettings.exe",
+      "cpu": 0.0,
+      "memory": 0.013965163132846722
+    },
+    {
+      "pid": 20640,
+      "name": "ApplicationFrameHost.exe",
+      "cpu": 0.0,
+      "memory": 0.2616091816195056
+    },
+    {
+      "pid": 20832,
+      "name": "conhost.exe",
+      "cpu": 0.0,
+      "memory": 0.042382929647505146
+    },
+    {
+      "pid": 20952,
+      "name": "MbamBgNativeMsg.exe",
+      "cpu": 0.0,
+      "memory": 0.07245799300864451
+    },
+    {
+      "pid": 21240,
+      "name": "msedge.exe",
+      "cpu": 0.0,
+      "memory": 0.11325674184701348
+    },
+    {
+      "pid": 21248,
+      "name": "PhoneExperienceHost.exe",
+      "cpu": 0.0,
+      "memory": 0.7029863270572965
+    },
+    {
+      "pid": 21288,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.11618138334080336
+    },
+    {
+      "pid": 21536,
+      "name": "teraboxunite.exe",
+      "cpu": 0.0,
+      "memory": 0.49424004043804304
+    },
+    {
+      "pid": 21752,
+      "name": "ollama app.exe",
+      "cpu": 0.0,
+      "memory": 0.18027977607969842
+    },
+    {
+      "pid": 21924,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.19434242726233816
+    },
+    {
+      "pid": 21996,
+      "name": "O+Connect.exe",
+      "cpu": 0.0,
+      "memory": 0.5219997626165988
+    },
+    {
+      "pid": 22052,
+      "name": "powershell.exe",
+      "cpu": 0.0,
+      "memory": 0.363118613466463
+    },
+    {
+      "pid": 22156,
+      "name": "AdobeCollabSync.exe",
+      "cpu": 0.0,
+      "memory": 0.1042878412660578
+    },
+    {
+      "pid": 22376,
+      "name": "teraboxunite.exe",
+      "cpu": 0.0,
+      "memory": 0.35088386321744197
+    },
+    {
+      "pid": 22416,
+      "name": "teraboxunite.exe",
+      "cpu": 0.0,
+      "memory": 0.33672372398500927
+    },
+    {
+      "pid": 22420,
+      "name": "teraboxunite.exe",
+      "cpu": 0.0,
+      "memory": 0.2793032626569344
+    },
+    {
+      "pid": 22876,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.062294863817724644
+    },
+    {
+      "pid": 22952,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.05364279939859622
+    },
+    {
+      "pid": 23168,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.025346892946179044
+    },
+    {
+      "pid": 23288,
+      "name": "oplus_remote_ui.exe",
+      "cpu": 0.0,
+      "memory": 0.06275793205424138
+    },
+    {
+      "pid": 23296,
+      "name": "conhost.exe",
+      "cpu": 0.0,
+      "memory": 0.040506284688989966
+    },
+    {
+      "pid": 23648,
+      "name": "ms-teams.exe",
+      "cpu": 0.0,
+      "memory": 0.16002663373520346
+    },
+    {
+      "pid": 23704,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 2.306494142064948
+    },
+    {
+      "pid": 24096,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.08798296493817917
+    },
+    {
+      "pid": 24180,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.028344650477313677
+    },
+    {
+      "pid": 24572,
+      "name": "UserOOBEBroker.exe",
+      "cpu": 0.0,
+      "memory": 0.06385467261441259
+    },
+    {
+      "pid": 24960,
+      "name": "python.exe",
+      "cpu": 0.0,
+      "memory": 0.7252136024100996
+    },
+    {
+      "pid": 25172,
+      "name": "FileCoAuth.exe",
+      "cpu": 0.0,
+      "memory": 0.14747504732435518
+    },
+    {
+      "pid": 25208,
+      "name": "conhost.exe",
+      "cpu": 0.0,
+      "memory": 0.054885772033456924
+    },
+    {
+      "pid": 25280,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 0.0741884058924702
+    },
+    {
+      "pid": 25308,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.052082990601908276
+    },
+    {
+      "pid": 25708,
+      "name": "vmware-tray.exe",
+      "cpu": 0.0,
+      "memory": 0.08096382535308344
+    },
+    {
+      "pid": 25736,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.08366911873483909
+    },
+    {
+      "pid": 25748,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.0923211831539675
+    },
+    {
+      "pid": 25868,
+      "name": "powershell.exe",
+      "cpu": 0.0,
+      "memory": 0.3956796220973238
+    },
+    {
+      "pid": 25900,
+      "name": "msedgewebview2.exe",
+      "cpu": 0.0,
+      "memory": 1.2602767636989598
+    },
+    {
+      "pid": 26040,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.0757238426767099
+    },
+    {
+      "pid": 26328,
+      "name": "svchost.exe",
+      "cpu": 0.0,
+      "memory": 0.054812655996112174
+    },
+    {
+      "pid": 26352,
+      "name": "dllhost.exe",
+      "cpu": 0.0,
+      "memory": 0.08520455551907877
+    },
+    {
+      "pid": 26392,
+      "name": "BridgeCommunication.exe",
+      "cpu": 0.0,
+      "memory": 0.19339191877685644
+    },
+    {
+      "pid": 26468,
+      "name": "Code.exe",
+      "cpu": 0.0,
+      "memory": 1.6193739951114616
+    },
+    {
+      "pid": 26488,
+      "name": "CodeSetup-stable-6a44c352bd24569c417e530095901b649960f9f8.exe",
+      "cpu": 0.0,
+      "memory": 0.05001136954380711
+    },
+    {
+      "pid": 26592,
+      "name": "CodeSetup-stable-6a44c352bd24569c417e530095901b649960f9f8.tmp",
+      "cpu": 0.0,
+      "memory": 0.15602962369369058
+    },
+    {
+      "pid": 26644,
+      "name": "pet.exe",
+      "cpu": 0.0,
+      "memory": 0.054520191846733186
+    },
+    {
+      "pid": 27032,
+      "name": "SecurityHealthService.exe",
+      "cpu": 0.0,
+      "memory": 0.12636888454417147
+    },
+    {
+      "pid": 27808,
+      "name": "WmiPrvSE.exe",
+      "cpu": 0.0,
+      "memory": 0.09605010105854961
+    },
+    {
+      "pid": 28468,
+      "name": "cmd.exe",
+      "cpu": 0.0,
+      "memory": 0.03826405954375105
+    }
+  ]
+}

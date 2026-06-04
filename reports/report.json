@@ -1,0 +1,11 @@
+{
+  "scan_date": "2026-06-04T06:54:35",
+  "files_scanned": 2,
+  "malware_found": 1,
+  "detections": [
+    {
+      "file": "D:\\Dev\\miniProjetMalwareByte\\test_files\\malware.txt",
+      "hash": "390e80921b0e0b9e00e0f49b278f811bbb14853ba20dea2f3697c3707458e325"
+    }
+  ]
+}
